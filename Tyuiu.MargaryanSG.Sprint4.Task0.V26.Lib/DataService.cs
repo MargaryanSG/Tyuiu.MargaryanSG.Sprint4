@@ -12,6 +12,7 @@ namespace Tyuiu.MargaryanSG.Sprint4.Task0.V26.Lib
         public int GetSumOddArrEl(int[] array)
         {
             array = new int[] { 9, 3, 7, 1, 5, 5, 3, 2, 1, 7 };
+
             int s = 0;
             for (int i = 0; i < array.Length; i++)
             {

@@ -15,7 +15,6 @@ namespace Tyuiu.MargaryanSG.Sprint4.Task0.V26
         {
             DataService ds = new DataService();
 
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
