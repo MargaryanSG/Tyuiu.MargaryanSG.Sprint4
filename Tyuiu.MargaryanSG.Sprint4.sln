@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MargaryanSG.Sprint4.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MargaryanSG.Sprint4.Task1.V27.Lib", "Tyuiu.MargaryanSG.Sprint4.Task1.V27.Lib\Tyuiu.MargaryanSG.Sprint4.Task1.V27.Lib.csproj", "{8A5E1D2B-4744-427C-9B3A-1FA57419563F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MargaryanSG.Task1.V27.Test", "Tyuiu.MargaryanSG.Task1.V27.Test\Tyuiu.MargaryanSG.Task1.V27.Test.csproj", "{1E8157F4-2B6E-4DE6-BCD1-90A6F737F5DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MargaryanSG.Sprint4.Task1.V27.Test", "Tyuiu.MargaryanSG.Task1.V27.Test\Tyuiu.MargaryanSG.Sprint4.Task1.V27.Test.csproj", "{1E8157F4-2B6E-4DE6-BCD1-90A6F737F5DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MargaryanSG.Sprint4.Task2.V8.Lib", "Tyuiu.MargaryanSG.Sprint4.Task2.V8.Lib\Tyuiu.MargaryanSG.Sprint4.Task2.V8.Lib.csproj", "{BC67E027-C671-4F83-BC1B-95FF30ABCA4A}"
 EndProject
