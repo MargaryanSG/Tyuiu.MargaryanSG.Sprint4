@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D9DA718B-80E8-4357-9061-67A19A62A5A3}</ProjectGuid>
+    <ProjectGuid>{3C9DC1D2-CCA4-4168-A6AF-B9C0E72306E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.Sprint4.MargaryanSG.Task4.V26</RootNamespace>
-    <AssemblyName>Tyuiu.Sprint4.MargaryanSG.Task4.V26</AssemblyName>
+    <RootNamespace>Tyuiu.MargaryanSG.Sprint4.Task4.V26</RootNamespace>
+    <AssemblyName>Tyuiu.MargaryanSG.Sprint4.Task4.V26</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
